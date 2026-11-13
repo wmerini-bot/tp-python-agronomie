@@ -36,7 +36,7 @@ pip install pandas
 ## How to Run
 
 ```bash
-python agricultural_analysis.py
+python python-file.py
 ```
 
 ## Expected Results
