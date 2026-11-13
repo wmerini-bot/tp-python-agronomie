@@ -1,8 +1,8 @@
-
+#code source
 import pandas as pd
 
 # Read agricultural data
-data = pd.read_csv("data/crop_data.csv")
+data = pd.read_csv("data.csv")
 
 # Display the dataset
 print("AGRICULTURAL DATA")
